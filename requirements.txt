@@ -4,4 +4,7 @@ matplotlib
 seaborn
 scikit-learn
 jupyter
+streamlit
+plotly
+statsmodels
 scipy
