@@ -97,3 +97,45 @@ Clone the repo and run the Streamlit app locally:
 
 ```bash
 streamlit run dashboard/app/main.py
+
+could you give me this in read me file
+📁 Cleaned Datasets
+Each dataset contains hourly solar and climate data with columns such as:
+
+GHI – Global Horizontal Irradiance
+
+DNI – Direct Normal Irradiance
+
+DHI – Diffuse Horizontal Irradiance
+
+RH – Relative Humidity
+
+Tamb – Ambient Temperature
+
+BP – Barometric Pressure
+
+📘 Notebooks
+benin_eda.ipynb
+
+togo_eda.ipynb
+
+sierraleone_eda.ipynb
+
+compare_countries.ipynb
+
+Each notebook includes:
+
+📊 Histograms
+
+📦 Boxplots
+
+🔗 Correlations
+
+🧠 Key Findings
+
+👨‍💻 Author
+Made with ❤️ by Hailemariyam
+🔗 GitHub Profile
+🌐 Streamlit App
+
+
